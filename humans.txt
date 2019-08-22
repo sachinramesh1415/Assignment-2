@@ -1,0 +1,13 @@
+# TEAM
+
+    Sachin R. -- Lead Developer
+
+# THANKS
+
+    CGI
+    NIIT StackRoute
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, BOOTSTRAP
+    

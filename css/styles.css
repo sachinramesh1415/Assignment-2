@@ -1,4 +1,14 @@
+/* Font */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+}
+
 /* Header/Navbar */
+
 .navbar-nav {
     float: right;
 }
@@ -6,7 +16,9 @@
 .navbar-toggler-icon {
     color: black;
 }
+
 /* Jumbotron */
+
 .jumbotron {
     margin-top: 5rem;
     text-align: center;
@@ -16,7 +28,9 @@
 .jumbotron p{
     margin-top: 1rem;
 }
+
 /* Grid */
+
 .row img {
     max-width: 100%;
     max-height: 100%;
@@ -39,6 +53,7 @@
 .col-sm h3 {
     margin-top: .5rem;
 }
+
 /* Carousel */
 
 #myCarousel {
@@ -47,3 +62,103 @@
     margin-bottom: 4rem;
 }
 
+/* Second Grid */
+
+#grey-bg {
+    background-color: #f5f5f5;
+}
+
+#grid2 {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.head-art {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.row-inner {
+    margin: 1rem;
+    text-align: center;
+    border: 2px solid black;
+}
+
+.row-inner h4 {
+    margin: 1.5rem auto 0;
+}
+
+.row-inner p {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/* Modal */
+
+#btn1 {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Map Embed */
+
+#map, .mapouter {
+    margin: auto;
+}
+#map {
+    margin-bottom: 3rem;
+}
+@media (max-width:770px) {
+    #hide {
+        display: none;
+    }
+}
+
+/* Footer */
+
+footer {
+    background-color: #292929;
+    height: auto;
+    width: 100%;
+}
+
+#marcor {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+footer p {
+    color: lightgrey;
+}
+
+footer .col-sm-4 {
+    padding-left: 1rem;
+    padding-top: 1rem;
+}
+
+footer .col-sm-8 {
+    padding-right: 2rem;
+    padding-top: 1.5rem;
+}
+
+#cor1 {
+    margin-bottom: 0.5rem;
+}
+
+i {
+    margin: 0.5rem;
+    color: lightgrey;
+}
+
+a i {
+    color: lightgrey;
+}
+
+a i:hover {
+    color: blue;
+}
+
+.col-sm-8 p {
+    margin-top:0.75rem;
+    margin-bottom: 0.25rem;
+}
