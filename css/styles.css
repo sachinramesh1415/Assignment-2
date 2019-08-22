@@ -131,7 +131,7 @@ footer {
     margin-left: 0;
 }
 
-footer p {
+footer p{
     color: lightgrey;
 }
 
@@ -149,6 +149,10 @@ footer .col-sm-8 {
     margin-bottom: 0.5rem;
 }
 
+a {
+    color: inherit;
+}
+
 i {
     margin: 0.5rem;
     color: lightgrey;
@@ -163,6 +167,6 @@ a i:hover {
 }
 
 .col-sm-8 p {
-    margin-top:0.75rem;
+    margin-top:0.5rem;
     margin-bottom: 0.25rem;
 }
